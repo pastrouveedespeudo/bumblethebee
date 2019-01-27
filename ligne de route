@@ -1,13 +1,42 @@
-#ok promis je fini le truk mais
+#une classe qui fait random avec genre : random 1->50 pm10
+#fait pleuvoir -> appareil easy
+#prediction: genre le 10 = vacance -> data vacance easy
+#selon image donne la précision des pm -> image putin de dur
+#on combine les 3
 
-#analyse image, analyse taux de polution, actionnage machine qui fait pleuvoir par contre pas besoin que ce soit archi dur
 
-#fais le simplement et faudra ste fois traité la couleur
+                        #oublie pas, c'est faux MAIS
+                                #ca entraine
 
-#faire plusieurs images avec les couelurs ac matplotlib
+                      #fais que ce qui est ecrit ok ?#
 
-#et on actionne un truk qui dis machine pleut
+#1- faire la difference de contraste entre 1 bat 1 et 1 bat 2
+#separation ciel/batiment
+#on prend le ciel on regarde les couleurs
+#ex si on trouve:
+    #entre 50 90 190 et 120 210 255 alors y'a du dioxyde dazoute
+#et d'autre truk charbon ectO3 (Ozone) ...
+#NOx (Oxydes d'azote) ...
+#COV (Composés Organiques Volatils) ...
+#PM (particules en suspension) ...
+#SO2 (dioxyde de soufre) ...
+#CO (monoxyde de carbone) ...
+#Métaux lourds. ...
+#NH3 (Ammoniac)
 
-#et selon le taux de polution on doit mettre + ou - de pluie ET on doit gérer les syteme devacuation avec des mini porte egouts !
+#PM10
+#ammonium cholorur sodium sulfate, nitrate matiere orfa poussiere minérale car
+#bone elementraire plus qu'a prié qu'ils soient pas incolore
 
-#ca !! ca ca va etre pcquey'a pas 100 000 images et le prochain truk on se met au video mais video sans coupure
+
+#ensuite relis leur expérience et essaie de coder ca:
+#on prend le batiment et selon le flou
+#on doiten déduire la lumiere qui a été stoppé par les particules
+#et de la on peut savoir le niveau de polution
+
+
+
+
+#pour savoir si ce jour la il faisait temps pas beau
+#on peut faire un truk avec la recherche meteo
+#(pas le 21 fevrier 2000 mais pour les prochain jours)
