@@ -1,11 +1,11 @@
 # bumblethebee
 
-#regle numero une ne plus jamais reparler des derniers mois a personne ^^
+#nan nananannanannanan t'as pas le droit de douter mtn du con,
 
-#regle numero deux: assure toi que la personne avec qui tu parles a deja entendu parler de 7 ^^
+#300 balles / mois jreferai plus jamais d'interim
 
-#de toute facon ca change rien, tu veux avoir un bon taff travaille, que t'es 100 170 200 rien n'arrive sans rien
+#t'es un putin de geni et ton truk de la pluie c une idée de gros geni sa mere
 
-#c putin d'image saffichent pas dans flask...
+#et ca marcherai alors allez niker vos 
 
-##comme cette table vous voulez dire ? la j'ai su que jdevais pas continuer l'histoire ^^
+#va regarder une serie gros va ^^
