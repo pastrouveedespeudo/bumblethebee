@@ -1,9 +1,11 @@
 # bumblethebee
 
-#meme pour lappli pate casserole profondeur faut fair edes math chui largué en math moi
+#regle numero une ne plus jamais reparler des derniers mois a personne ^^
 
-#c trop tard pour devenir veto jcrois amuse toi que ce soit vrai ou pas on s'en branle oki
+#regle numero deux: assure toi que la personne avec qui tu parles a deja entendu parler de 7 ^^
 
-#mais oui tu te fou la pression pcque tu veux que ce soit juste mais ca peut pas etre juste du con!!!
+#de toute facon ca change rien, tu veux avoir un bon taff travaille, que t'es 100 170 200 rien n'arrive sans rien
 
-#t'as pas suivis de cours oufffffffff ok ok te fou pas la pression comme ca
+#c putin d'image saffichent pas dans flask...
+
+##comme cette table vous voulez dire ? la j'ai su que jdevais pas continuer l'histoire ^^
